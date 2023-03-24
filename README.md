@@ -1,1 +1,1 @@
-# skillz2019
+The project files of the 2019 skillz competition
